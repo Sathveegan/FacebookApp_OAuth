@@ -1,0 +1,3 @@
+com\sample\oauth\core\FBConnection.class
+com\sample\oauth\core\FBResource.class
+com\sample\oauth\servlet\LoginServlet.class
